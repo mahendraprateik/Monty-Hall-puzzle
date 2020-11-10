@@ -1,15 +1,14 @@
 # Monty-Hall-puzzle
 
-<h3> What is the Monty Hall puzzle? </h3>
+<h3> What is the Monty Hall puzzle and where did it originate? </h3>
 Monty Hall problem is a famous probability puzzle which is so counter intuitive that most people get it wrong the first time.
 
-So what is the the problem and where did it originate?
 The Monty Hall problem is a probability puzzle named after Monty Hall, the original host of the TV show Let’s Make a Deal. It’s a famous paradox that has a solution that is so absurd, most people refuse to believe it’s true.
 
 Suppose you are deemed to win a prize if you select the correct door out of the three doors presented to you. However, after you choose a door, the host (Monty Hall) shows you what is behind one of the two doors
 that you did not choose (The host would always open a door with nothing behind it). Now you are left with 2 doors, the door that you chose and the door that was neither chosen by you nor was it opened by the host.
 
-WOULD YOU SWITCH?
+<h3> WOULD YOU SWITCH? </h3>
 
 The correct answer is that....if you do switch, your chances of winning double up from, if you do not switch.
 BUT HOW? is'nt it simple math that there are 2 doors, one with a prize, one without it. Should the answer be not 50% (half chance)?
