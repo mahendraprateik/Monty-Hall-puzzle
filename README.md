@@ -19,7 +19,7 @@ But if we had another door previously, that adds a layer of simple complexity (I
 Here is my shot at a simple and intuitive explanation which I understood.
 
 Step 1:
-You choose a door from door 1, 2 and 3. Lets say yooou chose dooor 2. 33% of the times you pick the prize, 66% of the times you do not.
+You choose a door from door 1, 2 and 3. Lets say you chose door 2. 33% of the times you pick the prize, 66% of the times you do not.
 
 Step 2:
 The host reveals what is behind one of the other two doors that you did not select (keep in mind that the host will always open a door with no prize)
