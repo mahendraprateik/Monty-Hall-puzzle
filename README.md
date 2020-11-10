@@ -10,8 +10,8 @@ that you did not choose (The host would always open a door with nothing behind i
 
 WOULD YOU SWITCH?
 
-The correct answer is that....if you do switch your chances of winning double up from if yoou do not switch.
-BUT HOW? is'nt is simple math that there arer 2 doors, one with a prize, one without it. Should the answer be not 50% (half chance)?
+The correct answer is that....if you do switch, your chances of winning double up from, if you do not switch.
+BUT HOW? is'nt it simple math that there are 2 doors, one with a prize, one without it. Should the answer be not 50% (half chance)?
 
 Lets see, if you were presented with just 2 doors, and asked to pick one of them, then yes, the answer would have been 50%.
 But if we had another door previously, that adds a layer of simple complexity (I know it is a paradox).
