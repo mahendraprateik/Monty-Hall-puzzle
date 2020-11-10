@@ -30,7 +30,7 @@ Now lets say the host reveals door 3 and shows you that there is nothing behind 
 
 Now read carefully:<br>
 
-<b>Statement 1:</b> Lets go back to step 1 for a second. Initially had a higher chance (66%) of NOT winning. So MORE LIKELY THAN NOT, you picked the wrong door.
+<b>Statement 1:</b> Lets go back to step 1 for a second. Initially, you had a higher chance (66%) of NOT winning. So MORE LIKELY THAN NOT, you picked the wrong door.
 
 <b>Statement 2:</b> The host reveals one of the remaining door and confirms that there is no prize behind it. The host ALWAYS opens an incorrect door as part of the game.
 
