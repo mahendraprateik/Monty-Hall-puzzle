@@ -27,9 +27,12 @@ You choose a door from door 1, 2 and 3. Lets say you chose door 2. 33% of the ti
 The host reveals what is behind one of the other two doors that you did not select (keep in mind that the host will always open a door with no prize)
 Now lets say the host reveals door 3 and shows you that there is nothing behind it and asks yoou the main question, "Would you want to switch to door 1 or stick to door 2 ?"
 
-Now read carefully:
-Statement 1: Lets go back to step 1 for a second. Initially had a higher chance (66%) of NOT winning. So MORE LIKELY THAN NOT, you picked the wrong door.
-Statement 2: The host reveals one of the remaining door and confirms that there is no prize behind it. The host ALWAYS opens an incorrect door as part of the game.
+Now read carefully:<br>
+
+<b>Statement 1:</b> Lets go back to step 1 for a second. Initially had a higher chance (66%) of NOT winning. So MORE LIKELY THAN NOT, you picked the wrong door.
+
+<b>Statement 2:</b> The host reveals one of the remaining door and confirms that there is no prize behind it. The host ALWAYS opens an incorrect door as part of the game.
+
 
 Now combine the 2 statements and think, if you were highly likely to pick an incorrect door at first, and then the host reveals the other incorrect door, what are the remaining options?
 The only option left is the dooor that was neither selected by you, not opoened by the host. So there is a higher chance that the door that you ignored initially as it had 33% chance of
