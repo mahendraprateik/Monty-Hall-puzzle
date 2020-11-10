@@ -1,6 +1,6 @@
 # Monty-Hall-puzzle
 
-Monty Hall problem is a famour probability puzzle which is so counter intuitive that most people get it wrong the first time.
+Monty Hall problem is a famous probability puzzle which is so counter intuitive that most people get it wrong the first time.
 
 So what is the the problem and where did it originate?
 The Monty Hall problem is a probability puzzle named after Monty Hall, the original host of the TV show Let’s Make a Deal. It’s a famous paradox that has a solution that is so absurd, most people refuse to believe it’s true.
