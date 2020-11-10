@@ -6,7 +6,7 @@ So what is the the problem and where did it originate?
 The Monty Hall problem is a probability puzzle named after Monty Hall, the original host of the TV show Let’s Make a Deal. It’s a famous paradox that has a solution that is so absurd, most people refuse to believe it’s true.
 
 Suppose you are deemed to win a prize if you select the correct door out of the three doors presented to you. However, after you choose a door, the host (Monty Hall) shows you what is behind one of the two doors
-that you did not choose (The host would always open a door with nothing behind it). Now yoou are left with 2 doors, the door that you chose and the door that was neither chosen by you nor was it opened by the host.
+that you did not choose (The host would always open a door with nothing behind it). Now you are left with 2 doors, the door that you chose and the door that was neither chosen by you nor was it opened by the host.
 
 WOULD YOU SWITCH?
 
