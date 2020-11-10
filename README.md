@@ -1,5 +1,6 @@
 # Monty-Hall-puzzle
 
+<h3> What is the Monty Hall puzzle? </h3>
 Monty Hall problem is a famous probability puzzle which is so counter intuitive that most people get it wrong the first time.
 
 So what is the the problem and where did it originate?
