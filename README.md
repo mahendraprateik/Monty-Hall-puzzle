@@ -24,8 +24,8 @@ But if we had another door previously, that adds a layer of simple complexity (I
 You choose a door from door 1, 2 and 3. Lets say you chose door 2. 33% of the times you pick the prize, 66% of the times you do not.
 
 <h3>Step 2: </h3>
-The host reveals what is behind one of the other two doors that you did not select (keep in mind that the host will always open a door with no prize)
-Now lets say the host reveals door 3 and shows you that there is nothing behind it and asks yoou the main question, "Would you want to switch to door 1 or stick to door 2 ?"
+The host reveals what is behind one of the other two doors that you did not select (keep in mind that the host will always open a door with no prize).
+Now lets say the host reveals door 3 and shows you that there is nothing behind it and asks you the main question, <u>"Would you want to switch to door 1 or stick to door 2 ?"</u>
 
 Now read carefully:<br>
 
