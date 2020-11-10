@@ -25,7 +25,7 @@ You choose a door from door 1, 2 and 3. Lets say you chose door 2. 33% of the ti
 
 <h3>Step 2: </h3>
 The host reveals what is behind one of the other two doors that you did not select (keep in mind that the host will always open a door with no prize).
-Now lets say the host reveals door 3 and shows you that there is nothing behind it and asks you the main question, <U>"Would you want to switch to door 1 or stick to door 2 ?"</U>
+Now lets say the host reveals door 3 and shows you that there is nothing behind it and asks you the main question, <b>"Would you want to switch to door 1 or stick to door 2 ?"</b>
 
 Now read carefully:<br>
 
