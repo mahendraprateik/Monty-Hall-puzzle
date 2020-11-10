@@ -32,9 +32,12 @@ Now read carefully:<br>
 
 <b>Statement 1:</b> Lets go back to step 1 for a second. Initially, you had a higher chance (66%) of NOT winning. So MORE LIKELY THAN NOT, you picked the wrong door.
 
-<b>Statement 2:</b> The host reveals one of the remaining door and confirms that there is no prize behind it. The host ALWAYS opens an incorrect door as part of the game.
+<b>Statement 2:</b> The host reveals one of the remaining doors and confirms that there is no prize behind it. The host ALWAYS opens an incorrect door as part of the game.
 
 
 Now combine the 2 statements and think, if you were highly likely to pick an incorrect door at first, and then the host reveals the other incorrect door, what are the remaining options?
-The only option left is the dooor that was neither selected by you, not opoened by the host. So there is a higher chance that the door that you ignored initially as it had 33% chance of
-having a prize behind it (just like the other doors), now has a 66% chance of having the prize ONLY because the host revealed a door with no prize.
+The only option left is the dooor that was neither selected by you, not opoened by the host. So there is a higher chance that the door that you ignored initially which had a 33% chance of having a prize behind it (just like the other doors), now has a 66% chance of having the prize ONLY because the host revealed a door with no prize.
+
+That said, this does not mean that you will always win when you switch or always lose when you do not. It simply means that you should expected to win roughly 66 times if you play the game 100 times with a switch strategy and only 33 times when you do not use the swutch strategy.
+
+Hope this helps! I was shocked myself for the very first time when I read that it is not 50% :)
