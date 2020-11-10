@@ -16,7 +16,7 @@ BUT HOW? is'nt it simple math that there are 2 doors, one with a prize, one with
 Lets see, if you were presented with just 2 doors, and asked to pick one of them, then yes, the answer would have been 50%.
 But if we had another door previously, that adds a layer of simple complexity (I know it is a paradox).
 
-Here my shot at a simple an intuitive explanation which I understood.
+Here is my shot at a simple and intuitive explanation which I understood.
 
 Step 1:
 You choose a door from door 1, 2 and 3. Lets say yooou chose dooor 2. 33% of the times you pick the prize, 66% of the times you do not.
